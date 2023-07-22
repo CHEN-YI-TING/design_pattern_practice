@@ -1,4 +1,4 @@
-package com.design.single;
+package com.design.singleton;
 
 //惡漢式單例
 public class Hungry {
